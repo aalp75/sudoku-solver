@@ -1,8 +1,8 @@
 ## Sudoku solver
 
 Simple sudoku solver with 2 different algorithms:
-- backtracking
-- MCMC (Metropolis-Hastings)
+- Backtracking
+- Metropolis-Hastings (MCMC)
 
 ## Usage
 
